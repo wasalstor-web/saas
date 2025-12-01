@@ -1,0 +1,3 @@
+[submodule "third_party/dyad"]
+	path = third_party/dyad
+	url = https://github.com/dyad-sh/dyad.git
