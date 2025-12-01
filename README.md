@@ -21,7 +21,7 @@ git submodule update --init --recursive
 To clone this repository with all submodules in one command:
 
 ```bash
-git clone --recurse-submodules https://github.com/wasalstor-web/saas.git
+git clone --recurse-submodules <repository-url>
 ```
 
 ### Updating Submodules
