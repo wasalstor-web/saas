@@ -1,0 +1,10 @@
+Third-Party Code Notices
+=========================
+
+This repository includes the following third-party components:
+
+1. dyad
+   Source: https://github.com/dyad-sh/dyad.git
+   Location: third_party/dyad
+   License: Apache License 2.0
+   License File: third_party/dyad/LICENSE
